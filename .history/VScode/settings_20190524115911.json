@@ -1,4 +1,6 @@
 {
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
 
     "editor.formatOnSave": false,
     // Enable per-language
@@ -13,12 +15,10 @@
         "editor.formatOnSave": true,
     },
 
-    "prettier.bracketSpacing": false,
     "prettier.singleQuote": true,
     "prettier.tabWidth": 2,
     "prettier.jsxSingleQuote": true,
     "prettier.jsxBracketSameLine": true,
-    "prettier.trailingComma": "all"
-
+    
 }
 
