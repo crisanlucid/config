@@ -27,10 +27,10 @@ components
      ├── App.js
 ```
 
-# Class-based and Functional Component (React)
+# Class-based and Functional Component only (React)
 
-**Filename**: Use PascalCase for filenames. E.g., ReservationCard.js <br>
-you can prefix filename based on company name (optional E.g. ZertifyButton).<br>
+**Filename**: Use PascalCase for filenames. `E.g., ReservationCard.js` <br>
+you can prefix filename based on company name (optional `E.g. ZertifyButton`).<br>
 
 links:<br>
 PascalCase: [here](https://www.quora.com/What-is-the-difference-between-Pascal-Case-and-Camel-Case)
