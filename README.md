@@ -11,7 +11,7 @@ https://github.com/crisanlucid/config/wiki/Git-Flow
 for a technical ticket insert *branche name from github*  in description
 
 
-# Structure Directory for React
+# Structure Directories for React
 
 modularize application
 
@@ -29,10 +29,13 @@ components
 
 # Class-based and Functional Component (React)
 
-**Filename**: Use PascalCase for filenames and prefix based on company name (optional E.g. ZertifyButton) . E.g., ReservationCard.js
-PascalCase: https://www.quora.com/What-is-the-difference-between-Pascal-Case-and-Camel-Case
+**Filename**: Use PascalCase for filenames. E.g., ReservationCard.js <br>
+you can prefix filename based on company name (optional E.g. ZertifyButton).<br>
 
-# CSS 
+links:<br>
+PascalCase: [here](https://www.quora.com/What-is-the-difference-between-Pascal-Case-and-Camel-Case)
+
+# CSS
 user BEM convention
 * https://seesparkbox.com/foundry/bem_by_example
 * http://getbem.com/introduction/
@@ -48,5 +51,4 @@ Example BEM:
   </button>  
 </form>
 ```
-
 
