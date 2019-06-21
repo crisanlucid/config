@@ -52,3 +52,5 @@ Example BEM:
 </form>
 ```
 
+# GIT HOOKS
+https://drive.google.com/file/d/1Ststqocl-B5CqgZSLCnC2l1gM5R0r6yl/view?usp=sharing
