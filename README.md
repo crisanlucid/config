@@ -11,7 +11,7 @@ https://github.com/crisanlucid/config/wiki/Git-Flow
 for a technical ticket insert *branche name from github*  in description
 
 
-# Structure Directories for React
+# Structure Directories for React (in progress...) 
 
 modularize application
 
